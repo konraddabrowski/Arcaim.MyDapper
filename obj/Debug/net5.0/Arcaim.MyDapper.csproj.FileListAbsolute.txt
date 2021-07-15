@@ -1,0 +1,12 @@
+/home/konrad/Workspace/nuget/Arcaim.MyDapper/bin/Debug/net5.0/Arcaim.MyDapper.deps.json
+/home/konrad/Workspace/nuget/Arcaim.MyDapper/bin/Debug/net5.0/Arcaim.MyDapper.dll
+/home/konrad/Workspace/nuget/Arcaim.MyDapper/bin/Debug/net5.0/ref/Arcaim.MyDapper.dll
+/home/konrad/Workspace/nuget/Arcaim.MyDapper/bin/Debug/net5.0/Arcaim.MyDapper.pdb
+/home/konrad/Workspace/nuget/Arcaim.MyDapper/obj/Debug/net5.0/Arcaim.MyDapper.GeneratedMSBuildEditorConfig.editorconfig
+/home/konrad/Workspace/nuget/Arcaim.MyDapper/obj/Debug/net5.0/Arcaim.MyDapper.AssemblyInfoInputs.cache
+/home/konrad/Workspace/nuget/Arcaim.MyDapper/obj/Debug/net5.0/Arcaim.MyDapper.AssemblyInfo.cs
+/home/konrad/Workspace/nuget/Arcaim.MyDapper/obj/Debug/net5.0/Arcaim.MyDapper.csproj.CoreCompileInputs.cache
+/home/konrad/Workspace/nuget/Arcaim.MyDapper/obj/Debug/net5.0/Arcaim.MyDapper.dll
+/home/konrad/Workspace/nuget/Arcaim.MyDapper/obj/Debug/net5.0/ref/Arcaim.MyDapper.dll
+/home/konrad/Workspace/nuget/Arcaim.MyDapper/obj/Debug/net5.0/Arcaim.MyDapper.pdb
+/home/konrad/Workspace/nuget/Arcaim.MyDapper/obj/Debug/net5.0/Arcaim.MyDapper.csprojAssemblyReference.cache
